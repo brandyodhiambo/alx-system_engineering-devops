@@ -1,1 +1,2 @@
-This repository contains shell basics lessons
+#!/bin/bash
+Shell basics

@@ -1,1 +1,1 @@
-This directory contain current directory answer
+script that print current working directory
